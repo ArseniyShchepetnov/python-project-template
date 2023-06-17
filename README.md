@@ -1,1 +1,1 @@
-# python-template
+{{ cookiecutter.project_name }}
