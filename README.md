@@ -1,1 +1,2 @@
-# Cookiecutter template
+# My Python project template
+
